@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:7c3aed,100:a855f7&text=CLAUDIO%20PACHECO&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00ffff,50:00ffff,100:00ffff&text=CLAUDIO%20PACHECO&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=FRONTEND+DEVELOPER;BUILDING+MODERN+WEBSITES;HTML+%7C+CSS+%7C+JAVASCRIPT;LEARNING+REACT+AND+NODE.JS;WELCOME+TO+MY+GITHUB"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=FRONTEND+DEVELOPER;BUILDING+MODERN+WEBSITES;HTML+%7C+CSS+%7C+JAVASCRIPT;LEARNING+REACT+AND+NODE.JS;WELCOME+TO+MY+GITHUB"/>
 
 </div>
 
@@ -108,11 +108,11 @@ HTML          ██████████ 100%
 
 CSS           ██████████ 100%
 
-JavaScript    ████████░░ 80%
+JavaScript    █████░░░░░ 50%
 
-React         ████░░░░░░ 40%
+React         █░░░░░░░░░ 10%
 
-Node.js       ███░░░░░░░ 30%
+Node.js       ██░░░░░░░░ 20%
 ```
 
 ---
@@ -192,9 +192,9 @@ Node.js       ███░░░░░░░ 30%
 
 [██████████] Improve JavaScript
 
-[███░░░░░░] Learn React
+[█░░░░░░░░] Learn React
 
-[███░░░░░░] Learn Node.js
+[██░░░░░░░] Learn Node.js
 
 [██████████] Build Professional Portfolio
 
@@ -234,4 +234,4 @@ Never stop learning.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f172a,50:7c3aed,100:a855f7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00ffff,50:00ffff,100:00ffff"/>
