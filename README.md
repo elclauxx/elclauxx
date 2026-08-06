@@ -43,7 +43,7 @@ const Claudio = {
 
     role: "Frontend Developer",
 
-    location: "Argentina 🇦🇷",
+    location: "Argentina, Buenos Aires 🇦🇷",
 
     currentlyLearning: [
         "JavaScript",
