@@ -210,16 +210,16 @@ Never stop learning.
 
 <div align="center">
 
-<a href="https://github.com/elclauxx">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<a href="https://www.instagram.com/elclauxx/">
+<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram"/>
 </a>
 
 <a href="https://www.linkedin.com/in/claudio-pacheco-fs/">
-<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:contacto.claudiopacheco@gmail.com">
-<img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -230,7 +230,7 @@ Never stop learning.
 
 ## 🚀 "Turning ideas into websites that help businesses grow."
 
-<img src="https://komarev.com/ghpvc/?username=elclauxx&style=for-the-badge&color=8A2BE2"/>
+<img src="https://komarev.com/ghpvc/?username=elclauxx&style=for-the-badge&color=FD1D1D"/>
 
 </div>
 
