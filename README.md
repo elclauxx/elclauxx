@@ -8,7 +8,11 @@
 
 ---
 
+<div align="center">
+
 # 💻 CLAUDIO OS
+
+</div>
 
 ```bash
 ╭────────────────────────────────────╮
@@ -34,7 +38,11 @@ STATUS: ONLINE 🚀
 
 ---
 
+<div align="center">
+    
 # 👨‍💻 About Me
+    
+</div>
 
 ```javascript
 const Claudio = {
@@ -79,29 +87,38 @@ const Claudio = {
 
 ---
 
-# ⚡ Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,figma&perline=5"/>
+# ⚡ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,github,vscode,figma,vercel&perline=5"/>
 
 </div>
 
 ---
 
+<div align="center">
+
 # 🚀 Featured Projects
 
 | 🚀 Project | 💡 Description |
 |------------|----------------|
+| 📦 Inventory System | Inventory System |
 | ☕ Cafetería Aurora | Modern landing page |
 | 📅 Google Calendar | HTML & CSS Clone |
 | 💬 Testimonials | Responsive section |
 | 🧱 Hero Tech Wall | CSS Grid Project |
 | 🌐 Landing Page | Product website |
 
+</div>
+
 ---
 
+<div align="center">
+
 # 📚 Currently Learning
+
+</div>
 
 ```text
 HTML          ██████████ 100%
@@ -117,7 +134,11 @@ Node.js       ██░░░░░░░░ 20%
 
 ---
 
+<div align="center">
+
 # 📊 GitHub Analytics
+
+</div>
 
 <div align="center">
 
@@ -137,7 +158,11 @@ Node.js       ██░░░░░░░░ 20%
 
 ---
 
+<div align="center">
+
 # 🏆 GitHub Trophies
+
+</div>
 
 <div align="center">
 
@@ -147,7 +172,11 @@ Node.js       ██░░░░░░░░ 20%
 
 ---
 
+<div align="center">
+
 # 📈 Contribution Graph
+
+</div>
 
 <div align="center">
 
@@ -157,7 +186,11 @@ Node.js       ██░░░░░░░░ 20%
 
 ---
 
+<div align="center">
+
 # 🐍 Contribution Snake
+
+</div>
 
 <div align="center">
 
@@ -167,7 +200,11 @@ Node.js       ██░░░░░░░░ 20%
 
 ---
 
+<div align="center">
+
 # 💼 Services
+
+</div>
 
 ```text
 ✔ Landing Pages
@@ -185,7 +222,11 @@ Node.js       ██░░░░░░░░ 20%
 
 ---
 
+<div align="center">
+
 # 🎯 Current Mission
+
+</div>
 
 ```bash
 > Loading mission...
@@ -206,7 +247,11 @@ Never stop learning.
 
 ---
 
+<div align="center">
+
 # 🌎 Connect With Me
+
+</div>
 
 <div align="center">
 
@@ -231,6 +276,8 @@ Never stop learning.
 ## 🚀 "Turning ideas into websites that help businesses grow."
 
 <img src="https://komarev.com/ghpvc/?username=elclauxx&style=for-the-badge&color=FD1D1D"/>
+
+</div>
 
 </div>
 
